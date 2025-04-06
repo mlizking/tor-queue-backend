@@ -1,2 +1,2 @@
-# tor-queue-tor-queue-backend
+# tor-queue-backend
 backend of tor-queue
